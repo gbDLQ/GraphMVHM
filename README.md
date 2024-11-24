@@ -1,2 +1,2 @@
 # GraphMVHM
-For reference only
+For reference only, Run run.py
